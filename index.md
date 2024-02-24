@@ -5,4 +5,4 @@ title: プライバシーポリシー
 
 # プライバシーポリシー
 
-プライバシーポリシーは[こちら](/about/docs/privacy-policy/ja)をご覧ください。
+プライバシーポリシーは[こちら](/docs/privacy-policy/ja)をご覧ください。
