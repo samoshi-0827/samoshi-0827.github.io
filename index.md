@@ -1,8 +1,13 @@
 ---
 layout: default
-title: プライバシーポリシー
+title: ホーム
 ---
+<link rel="stylesheet" href="/assets/css/style.css">
 
-# プライバシーポリシー
+# サービス
 
-プライバシーポリシーは[こちら](/docs/privacy-policy/ja)をご覧ください。
+- [疾患.com](https://shikkan.com)
+
+## Androidアプリ プライバシーポリシー
+
+Androidアプリのプライバシーポリシーは[こちら](/docs/privacy-policy/ja)をご覧ください。
