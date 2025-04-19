@@ -6,7 +6,7 @@ title: ホーム
 
 # サービス
 
-- [疾患.com](https://shikkan.com)
+- [疾患.com](https://shikkan.com) - さまざまな疾患の有病率などを公的統計から算出し、グラフで表示します。
 
 ## Androidアプリ プライバシーポリシー
 
