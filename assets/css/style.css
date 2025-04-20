@@ -1,39 +1,49 @@
+/* Variables */
+:root {
+  --primary-color: #007bff;
+  --background-color: #f8f8f8;
+  --text-color: #333;
+  --border-color: #ddd;
+}
+
+/* Base styles */
 body {
   font-family: 'Roboto', sans-serif;
   line-height: 1.6;
   margin: 40px;
-  background-color: #f8f8f8;
-  color: #333;
+  background-color: var(--background-color);
+  color: var(--text-color);
 }
 
+/* Heading styles */
 h1 {
   font-size: 2.5em;
   margin-bottom: 30px;
-  color: #007bff;
-  border-bottom: 1px solid #007bff;
+  color: var(--primary-color);
+  border-bottom: 1px solid var(--primary-color);
   padding-bottom: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
+/* List styles */
 ul {
   list-style: none;
   padding: 0;
+  border: 1px solid var(--border-color);
+  padding: 20px;
+  border-radius: 5px;
 }
 
 li {
   margin-bottom: 15px;
 }
 
+/* Link styles */
 a {
-  color: #007bff;
+  color: var(--primary-color);
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
-}
-
-ul {
-  border: 1px solid #ddd;
-  padding: 20px;
-  border-radius: 5px;
 }
